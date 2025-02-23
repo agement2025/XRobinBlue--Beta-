@@ -1,0 +1,25 @@
+body{
+    background-color: #444444;
+    color: wheat;
+}
+img{
+    border-radius: 50%;
+}
+::selection{
+    background-color: orange;
+}
+#wiewpal{
+    margin-left: 1250px;
+    border-radius: 50%;
+    background: none;
+    border: none;
+}
+button{
+    width: 300px;
+    height: 30px;
+    margin-left: 1250px;
+    border-color: wheat;
+    background-color: #444444;
+    margin-bottom: 100px;
+    color: wheat;
+}
